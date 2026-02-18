@@ -7,9 +7,12 @@ clusters:
 excerpt: |
   Simple things have a surprising level of depth to them.
 status: completed
+
 ---
+
 # *RGB Based Tachometer Display for BZR4* #
 ![Tachometer](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/Tachometer_Media/TachoThumbnail.jpeg)
+
 ---
 
 ## Completed Product in action on the field ##
