@@ -11,7 +11,7 @@ status: in progress...
 ---
 
 # Bolt securing inner bearing of RodEnd or Slip Bearing does not rotate with the rest of the rod-end housing #
-<Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/BoltFixedWRTWheel.mp4" controls></video>
+<video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/BoltFixedWRTWheel.mp4" controls></video>
 
 ---
 
@@ -24,19 +24,19 @@ As the video above demonstrates, when observing the bolts securing the Tie-rod r
 ![OuterLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/SteeringKnuckleFullRetractionMarkedUp.JPG)
 
 θᵢ = Inner Wheel Lock angle and θₒ = Outer Wheel Lock Angle
-To draw the reference axes, the longitudinal axis of the Tie-rod and two corners of the Hexgon on the Allen bolt head were chosen (The same two corners). This helps us visualise the relative angular displacement that we are trying to measure.
+To draw the reference axes, the longitudinal axis of the Tie-rod and two corners of the Hexagon on the Allen bolt head were chosen (The same two corners). This helps us visualise the relative angular displacement that we are trying to measure.
 
 The range of angles can be seen in the following videos:
 
-<Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles1.mp4"  controls></video>
-<Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles2.mp4"  controls></video>
+<video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles1.mp4"  controls></video>
+<video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles2.mp4"  controls></video>
 
 ---
 
 # The above analysis can be similarly done at the Upright Upper A-arm eyelet: #
 ![InnerLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltInnerLock.jpeg)
 ![InnerLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltOuterLock.jpeg)
-<Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltRotation.mp4" controls></video>
+<video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltRotation.mp4" controls></video>
 
 ---
 
