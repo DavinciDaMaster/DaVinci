@@ -43,3 +43,5 @@ The magnetic encoder measures the angular position of a diametrically magnetised
 A special fixture will have to be made to attach the magnetic encoder to the Tie-Rod or the Eylet plate, such that the axis of the bolt will coincide with the position of the magnetic encoder IC. Refer the below image for a visualisation:
 
 ![Implementation](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/Implementation.jpeg)
+
+The wheels will be brought to 0 degrees and the encoder values will be tared. The relative angle from this zero position can now be recorded.
