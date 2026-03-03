@@ -5,7 +5,7 @@ clusters:
   - vehicle-dynamics
   - electronics
 excerpt: |
-Magnetic enccoders can be used to measure a whole lot of things
+  Magnetic enccoders can be used to measure a whole lot of things
 status: in progress...
 
 ---
