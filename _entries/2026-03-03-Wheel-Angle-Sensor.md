@@ -2,13 +2,13 @@
 layout: entry
 date: 2026-03-03
 clusters:
-  - vehicle-dynamics
-    - electronics
-    excerpt: |
-      Magnetic encoders can be used to measure a whole lot of things
-      status: in progress...
+- vehicle-dynamics
+- electronics
+excerpt: |
+Magnetic encoders can be used to measure a whole lot of things
+status: in progress...
 
-      ---
+---
 
       # Bolt securing inner bearing of RodEnd or Slip Bearing does not rotate with the rest of the rod-end housing #
       <video style="width: 100%; max-width: 600px; height: auto;" src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/BoltFixedWRTWheel.mp4" controls></video>
