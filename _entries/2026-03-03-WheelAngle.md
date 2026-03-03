@@ -13,6 +13,8 @@ status: in progress...
 # Bolt securing inner bearing of RodEnd or Slip Bearing does not rotate with the rest of the rod-end housing #
 <Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/BoltFixedWRTWheel.mp4" controls></video>
 
+---
+
 As the video above demonstrates, when observing the bolts securing the Tie-rod rodends and the upper upright eyelet, we can see that the bolt remains fixed in angular position with respect to the wheel. Hence, measuring the bolt orientation with respect to the chassis will effectively allow us to measure the wheel heading with respect to the chassis (Wheel Angle).
 
 ---
@@ -39,8 +41,8 @@ The range of angles can be seen in the following videos:
 ---
 
 # Implementing the Magnetic Encoder #
-The magnetic encoder measures the angular position of a diametrically magnetised neodynium magnet. Attaching this magnet to the bolt head will now couple the wheel heading to the magnet's angular position.
-A special fixture will have to be made to attach the magnetic encoder to the Tie-Rod or the Eylet plate, such that the axis of the bolt will coincide with the position of the magnetic encoder IC. Refer the below image for a visualisation:
+The magnetic encoder measures the angular position of a diametrically magnetised neodymium magnet. Attaching this magnet to the bolt head will now couple the wheel heading to the magnet's angular position.
+A special fixture will have to be made to attach the magnetic encoder to the Tie-Rod or the Eyelet plate, such that the axis of the bolt will coincide with the position of the magnetic encoder IC. Refer the below image for a visualisation:
 
 ![Implementation](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/Implementation.jpeg)
 
