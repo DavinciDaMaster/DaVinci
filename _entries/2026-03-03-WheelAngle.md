@@ -18,9 +18,7 @@ As the video above demonstrates, when observing the bolts securing the Tie-rod r
 ---
 
 # Inner wheel lock and Outer wheel lock conditions with relative angle between bolt head angular position and Tie-rod #
-
 ![InnerLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/SteeringKnuckleFullExtensionMarkedUp.JPG)
-
 ![OuterLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/SteeringKnuckleFullRetractionMarkedUp.JPG)
 
 θᵢ = Inner Wheel Lock angle and θₒ = Outer Wheel Lock Angle
@@ -29,16 +27,13 @@ To draw the reference axes, the longitudinal axis of the Tie-rod and two corners
 The range of angles can be seen in the following videos:
 
 <Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles1.mp4"  controls></video>
-
 <Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/RotationAboutSteeringKnuckles2.mp4"  controls></video>
 
 ---
 
 # The above analysis can be similarly done at the Upright Upper A-arm eyelet: #
 ![InnerLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltInnerLock.jpeg)
-
 ![InnerLockAngle](https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltOuterLock.jpeg)
-
 <Video src="https://raw.githubusercontent.com/DavinciDaMaster/DaVinci/main/_entries/WheelAngle_Media/UpperUprightBoltRotation.mp4" controls></video>
 
 ---
