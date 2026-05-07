@@ -64,7 +64,7 @@ With all that said, the poor man's voltage regulator is left unused for our curr
 ---
 
 ## *The Software* ##
-```C
+```c
 #include "ch32fun.h"
 #include <stdio.h>
 
